@@ -1,3 +1,9 @@
+.container {
+    background-color:rgb(241, 245, 179);
+    max-width: 100%;
+    padding: 0px
+}
+
 nav {
     background-color: rgb(226, 238, 238);
 }
@@ -7,22 +13,17 @@ nav {
     background: rgb(240, 255, 246)
 
 }
-#summary {
-    width: 80%;
-    font-size: 16px;
-}
 
 #image {
     float: left;
 }
 
-.container {
-    background-color: rgb(243, 243, 236);
-    max-width: 100%
-}
 body {
-    background-color:cornflowerblue
+    height:90%;
+    width:90%;
+    margin:auto
 }
 .nav-link:hover {
-    background-color: thistle;
+    background-color: rgb(235, 18, 199);
 }
+

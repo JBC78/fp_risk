@@ -26,14 +26,14 @@ app = Flask(__name__)
 
 #what will this route do
 def home_page():
-    print("Server received request for 'home page'...")
-    return "Welcome to my home page"
+    print("Server received request for 'index page'...")
+    return render_template("index.html")
 
-# about end point
-@app.route("/about")
-def about():
-    print("Server received request for 'About' page...")
-    return "Welcome to my 'About' page!"
+# # about end point
+# @app.route("/about")
+# def about():
+#     print("Server received request for 'About' page...")
+#     return "Welcome to my 'About' page!"
 
 @app.route("/visuals")
 def visuals():
