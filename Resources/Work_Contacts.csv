@@ -1,0 +1,303 @@
+﻿Date,Observation Time,Purchase Order Number,RCS Number,Work Order Number,Job Start Time,Job Finish Time,Work group,Risk,OC,Authority To Proceed Description,Does ARP walk the job. In the alloted time frames,Field Verifications Completed (ARP),Field Verifications Completed (CRP),Supervision Present,Total number of people on job
+5/07/2021,8:35:00,7154232cs,85039,,8:30:00,,Dartla,High,1,Repair insulation PFT #31,No,Yes,Yes,No,2
+5/07/2021,8:45:00,7190673,,,8:00:00,,Awayclean,High,1,Bog out lake duck,No,Yes,Yes,No,2
+5/07/2021,8:50:00,7181286,90145,,8:00:00,,Awayclean,High,1,HPW clean vent lines,No,Yes,Yes,No,2
+5/07/2021,11:49:00,7180602,,,11:00:00,12:00:00,Awayclean,High,1,108w drain. vacuum out pit. N/E. of car park,No,Yes,Yes,No,2
+5/07/2021,13:00:00,7180602,,,13:00:00,14:00:00,Awayclean,High,1,108w drain. vacuum out pit. N/W. of car park,No,Yes,Yes,No,4
+5/07/2021,8:55:00,7190400cs,92237,,8:00:00,,Mechener,High,1,Install hot tap HPW blast valve,No,Yes,Yes,Yes,6
+5/07/2021,8:40:00,7181625,87318,,8:45:00,,LUG Ropes,High,1,Erect scaffold #51 Blow off tank,No,Yes,Yes,No,2
+5/07/2021,8:30:00,47119140,90477,,8:00:00,,Roht,High,1,Connect fume extractors mills workshop,No,Yes,Yes,No,2
+5/07/2021,9:00:00,7190455,J002450,,8:20:00,,Tacpim,Medium,1,30E Heater repairs,No,Yes,Yes,Yes,3
+5/07/2021,10:45:00,7175923,,2285000,10:00:00,,Refeak,Medium,1,Set up welder and spools for capital projects,No,Yes,Yes,No,3
+6/07/2021,7:45:00,7190400,92237,,7:30:00,,Mechener,High,1,HPW clean Steam valve 30 unit #4,No,Yes,Yes,Yes,3
+6/07/2021,9:55:00,7185097,,,9:30:00,,Awayclean,High,1,Vacuum #56 sump pit,Yes,Yes,Yes,No,1
+6/07/2021,7:35:00,4144977710,92313,,7:30:00,,LUG Ropes,High,1,#51 B.O.T. Descale,Yes,Yes,Yes,No,4
+6/07/2021,7:30:00,718397,90142,,7:30:00,,LUG Ropes,High,1,34 digester bank service,Yes,Yes,Yes,No,1
+6/07/2021,10:30:00,not provided,92319,,10:00:00,14:00:00,LUG Ropes,High,1,Erect scaffold #42 MPP disch. valve,Yes,Yes,Yes,No,1
+6/07/2021,11:50:00,7188654,,,8:00:00,,SLA,Low,1,Sub station thermal checks on cabinets ,Yes,Yes,Yes,No,1
+6/07/2021,8:10:00,7190455,J002450,,7:30:00,14:45:00,Tacpim,Medium,1,Repair heater 30E,No,Yes,Yes,Yes,4
+6/07/2021,8:03:00,7175923,,2285000,8:00:00,,Refeak,Medium,1,Insert Tee piece in slurry line 30 unit 4,Yes,Yes,Yes,No,2
+6/07/2021,13:30:00,7159052,85909,,8:30:00,14:29:00,Roht,Medium,1,Remove concrete from 51 MPP base,Yes,Yes,Yes,No,1
+6/07/2021,10:08:00,7188653,,,10:20:00,13:00:00,Ailoev,Medium,1,Repair leak in pipe 25c,Yes,Yes,Yes,No,2
+6/07/2021,11:40:00,not provided,92345,,10:30:00,11:44:00,Ailoev,Medium,1,Repair piping 25A2,Yes,Yes,Yes,No,1
+7/07/2021,11:00:00,7185097,,,10:30:00,,Awayclean,High,1,Clear scale around #56 sump pit,No,Yes,Yes,No,1
+7/07/2021,13:05:00,7185097,,,10:30:00,,Awayclean,High,1,Clear scale around #56 sump pit,No,Yes,Yes,No,2
+7/07/2021,14:10:00,7185097,,,10:30:00,,Awayclean,High,1,Clear scale around #56 sump pit,no,Yes,Yes,No,2
+7/07/2021,13:20:00,7181625,87318,,11:00:00,,LUG Ropes,High,1,Install internal scaff. internal #51 flash tank ,No,Yes,Yes,No,1
+7/07/2021,8:00:00,7183397,90142,,7:30:00,9:16:00,LUG Ropes,High,1,Build scaffolds to cones of #34 digester bank ,No,Yes,Yes,No,4
+7/07/2021,9:00:00,7183397,90142,,7:03:00,9:16:00,LUG Ropes,High,1,Build scaffolds to cones of #34 digester bank ,No,Yes,Yes,No,4
+7/07/2021,7:52:00,7181625,87318,,7:30:00,,LUG Ropes,High,1,Erect external scaffold #51 B.O.T.,No,Yes,Yes,No,3
+7/07/2021,9:10:00,7181625,87318,,7:30:00,,LUG Ropes,High,1,Erect external scaffold #51 B.O.T.,No,Yes,Yes,No,3
+7/07/2021,13:38:00,7181625,87318,,7:30:00,,LUG Ropes,High,1,Erect external scaffold #51 B.O.T.,No,Yes,Yes,No,3
+7/07/2021,10:00:00,7190325,84802,,7:00:00,,LUG Ropes,High,1,Erect scaffold to alarm spool 30 unit #1,No,Yes,Yes,No,2
+7/07/2021,12:00:00,7190324,84802,,7:00:00,,LUG Ropes,High,1,Erect scaffold to alarm spool 30 unit #1,No,Yes,Yes,No,2
+7/07/2021,11:15:00,7181625,87318,,11:00:00,,LUG Ropes,High,1,Install internal scaff. internal #51 flash tank ,No,Yes,Yes,No,1
+7/07/2021,12:00:00,7181625,87318,,11:00:00,,LUG Ropes,High,1,Install internal scaff. internal #51 flash tank ,No,Yes,Yes,No,1
+7/07/2021,8:15:00,7154232,85039,,7:45:00,,Dartla,High,1,Install Cladding #31 PFT,yes,Yes,Yes,No,3
+7/07/2021,10:20:00,7154232,85039,,7:45:00,,Dartla,High,1,Install Cladding #31 PFT,yes,Yes,Yes,No,3
+7/07/2021,13:15:00,7154232,85039,,7:45:00,,Dartla,High,1,Install Cladding #31 PFT,yes,Yes,Yes,No,1
+7/07/2021,12:15:00,7191276,,,11:00:00,,LUG Ropes,High,1,Erect scaffold #16 heater,yes,Yes,Yes,No,1
+7/07/2021,14:07:00,7191276,,,11:00:00,,LUG Ropes,High,1,Erect scaffold #16 heater,yes,yes,Yes,No,1
+7/07/2021,10:00:00,230399,91720,,10:00:00,,LUG Ropes,High,1,Build scaffold 42 unit #1,yes,Yes,Yes,No,2
+7/07/2021,8:00:00,7190325,84802,,7:00:00,,LUG Ropes,High,1,Erect scaffold to alarm spool 30 unit #1,yes,Yes,Yes,No,2
+7/07/2021,10:25:00,7183573,,,7:00:00,,LUG Mech,High,1, Install tapping points #56 contact heater,yes,Yes,Yes,No,1
+7/07/2021,12:10:00,7183573,,,7:00:00,,LUG Mech,High,1, Install tapping points #56 contact heater,yes,Yes,Yes,No,1
+7/07/2021,13:40:00,7183573,,,7:00:00,,LUG Mech,High,1, Install tapping points #56 contact heater,yes,Yes,Yes,No,1
+7/07/2021,7:51:00,not provided,92313,4144977-10,7:30:00,11:30:00,LUG Ropes,High,1,Descale #51 BOT Relief line,yes,Yes,Yes,No,5
+7/07/2021,9:00:00,not provided,92313,4144977-10,7:30:00,11:30:00,LUG Ropes,High,1,Descale #51 BOT Relief line,yes,Yes,Yes,No,5
+7/07/2021,8:20:00,7191412,,,7:45:00,9:30:00,Tacpim,Medium,1,#22 heater repair. Bld 30,No,Yes,Yes,No,4
+7/07/2021,12:10:00,7191412,,,12:00:00,,Tacpim,Medium,1,Repair #26 Heater,No,Yes,Yes,No,4
+7/07/2021,8:07:00,7175923,,,7:30:00,,Refeak,Medium,1,Insert Tee piece in slurry line 30 unit 4,yes,Yes,Yes,No,3
+7/07/2021,10:00:00,7175923,,,7:30:00,,Refeak,Medium,1,Insert Tee piece in slurry line 30 unit 4,yes,Yes,Yes,No,3
+7/07/2021,13:45:00,7175923,,,7:30:00,,Refeak,Medium,1,Insert Tee piece in slurry line 30 unit 4,yes,Yes,Yes,No,3
+8/07/2021,13:35:00,719185,,,11:30:00,,Awayclean,High,1,Vacuum & jet wash 25 feed conveyors silt pit ,No,Yes,Yes,No,2
+8/07/2021,14:15:00,719185,,,11:30:00,,Awayclean,High,1,Vacuum & jet wash 25 feed conveyors silt pit ,No,Yes,Yes,no,2
+8/07/2021,8:30:00,7189318,90578,,7:10:00,,LUG Ropes,High,1,C/out popper on steam line 25a  STL #7,No,Yes,Yes,No,2
+8/07/2021,9:45:00,7181625,87318,,9:45:00,,LUG Ropes,High,1,Internal scaffold #51 B.O.T.,No,Yes,Yes,No,3
+8/07/2021,11:00:00,7181625,87318,,11:06:00,,LUG Ropes,High,1,Internal scaffold #51 B.O.T.,No,Yes,Yes,No,3
+8/07/2021,13:56:00 PM,7181625,87318,,13:15:00,,LUG Ropes,High,1,Internal scaffold #51 B.O.T.,No,Yes,Yes,No,3
+8/07/2021,9:22:00,7178513,,,7:30:00,,Awayclean,High,1,Descale #34 Sand trap,Yes,No,Yes,No,4
+8/07/2021,7:35:00,7183573,SOW,,7:00:00,,LUG Mech,High,1,Install hot taps #56 contact heater,Yes,Yes,Yes,No,3
+8/07/2021,9:15:00,7183573,SOW,,7:00:00,,LUG Mech,High,1,Install hot taps #56 contact heater,Yes,Yes,Yes,No,3
+8/07/2021,11:15:00,7183573,SOW,,7:00:00,,LUG Mech,High,1,Install hot taps #56 contact heater,Yes,Yes,Yes,No,3
+8/07/2021,8:00:00,82775,,4302013,8:00:00,,SLA,Low,1,Routine thickness testing Bld 30,No,Yes,Yes,No,2
+8/07/2021,11:50:00,82775,,4302013,8:00:00,,SLA,Low,1,Routine thickness testing Bld 30,No,Yes,Yes,No,2
+8/07/2021,13:05:00,82775,,4302013,8:00:00,,SLA,Low,1,Routine thickness testing Bld 30,No,Yes,Yes,No,2
+8/07/2021,9:15:00,7191412,,,8:00:00,,Tacpim,Medium,1,#22 heater repairs,No,No,Yes,Yes,3
+8/07/2021,13:20:00,7175923,,,13:00:00,,Refeak,Medium,1,Install bypass Bld. 30,No,No,No,No,1
+8/07/2021,7:45:00,7173834,,,7:30:00,,Refeak,Medium,1,Measure diameter of #5 containment tank,Yes,Yes,Yes,No,2
+8/07/2021,9:15:00,7173834,,,7:30:00,10:00:00,Refeak,Medium,1,Measure diameter of #5 containment tank,Yes,Yes,Yes,No,4
+8/07/2021,7:30:00,7175923,,,7:00:00,,Refeak,Medium,1,Install bypass Bld. 30,Yes,Yes,Yes,No,4
+8/07/2021,9:00:00,7175923,,,9:00:00,,Refeak,Medium,1,Install bypass Bld. 30,Yes,Yes,Yes,Yes,4
+9/07/2021,8:02:00,7178513,,,8:00:00,,Awayclean,High,1,Descale #34 Sand trap,No,Yes,Yes,No,3
+9/07/2021,10:30:00,717851,,,8:00:00,,Awayclean,High,1,Descale #34 Sand trap,No,Yes,Yes,No,1
+9/07/2021,12:10:00,717851,,,8:00:00,,Awayclean,High,1,Descale #34 Sand trap,No,No,No,No,3
+9/07/2021,13:00:00,717851,,,8:00:00,,Awayclean,High,1,Descale #34 Sandtrap,No,No,No,No,2
+9/07/2021,14:00:00,717851,,,8:00:00,,Awayclean,High,1,Descale #34 Sandtrap,No,No,No,No,2
+9/07/2021,11:59:00,7171054,83341,,11:20:00,13:00:00,LUG Ropes,High,1,#11 digester bank service,No,Yes,Yes,No,2
+9/07/2021,8:30:00,7183397,90112,,7:30:00,,LUG Ropes,High,1,#34 digester bank service,No,Yes,Yes,No,2
+9/07/2021,10:05:00,7191412,,,8:20:00,,Tacpim,High,1,#22 heater repairs,Yes,Yes,Yes,Yes,3
+9/07/2021,12:13:00,7191412,,,8:20:00,,Tacpim,High,1,#22 heater repairs,Yes,Yes,Yes,Yes,3
+9/07/2021,14:00:00,7191412,,,8:20:00,,Tacpim,High,1,#22 heater repairs,Yes,Yes,Yes,Yes,3
+9/07/2021,10:30:00,7175923,,,7:00:00,,Refeak,High,1,Install bypass Bld. 30,Yes,Yes,Yes,No,6
+9/07/2021,7:44:00,not provided,82775,4302013,7:45:00,,SLA,Medium,1,Routine thickness testing Bld 30,No,Yes,Yes,No,3
+9/07/2021,10:35:00,not provided,82775,4302013,7:45:00,,SLA,Medium,1,Routine thickness testing Bld 30,No,Yes,Yes,No,3
+9/07/2021,8:17:00,7191412,,,8:20:00,,Tacpim,Medium,1,#22 heater repairs,Yes,Yes,Yes,Yes,3
+9/07/2021,8:40:00,7175923,,,8:40:00,,Refeak,Medium,1,Install bypass Bld. 30,Yes,Yes,Yes,No,6
+9/07/2021,10:45:00,7175923,,,8:40:00,,Refeak,Medium,1,Install bypass Bld. 30,Yes,Yes,Yes,No,6
+12/07/2021,11:45:00,7188546CS,,,9:30:00,,SLA Ropes,High,1,Routine thickness testing Bld 30,No,Yes,Yes,Yes,2
+12/07/2021,13:40:00,7188546,,,9:30:00,,SLA Ropes,High,1,Routine thickness testing Bld 30,No,Yes,Yes,Yes,2
+12/07/2021,8:00:00,7175923,,,7:30:00,,Refeak,High,1,Install bypass Bld. 30,Yes,Yes,Yes,No,3
+12/07/2021,14:30:00,7175923,,,14:30:00,,Refeak,High,1,Install bypass Bld. 30,Yes,Yes,Yes,No,2
+12/07/2021,8:18:00,7191209,92346,,8:00:00,,OHCcranes,High,1,Replace pendant 108W pedestal crane ,Yes,Yes,Yes,No,1
+12/07/2021,11:06:00,7191209,92346,,8:00:00,12:00:00,OHCcranes,High,1,Replace pendant 108W pedestal crane ,Yes,Yes,Yes,No,1
+12/07/2021,8:44:00,7192351,,,6:30:00,,LUG Mech,High,1,Install liners 11B digester vessel,Yes,Yes,Yes,No,3
+12/07/2021,8:45:00,7192350,,,6:30:00,,LUG Mech,High,1,Install liners 11a digester vessel,Yes,Yes,Yes,No,3
+12/07/2021,7:00:00,7183573,,,7:00:00,10:00:00,LUG Mech,High,1,Install ball valves #56 contact heater,Yes,Yes,Yes,No,2
+12/07/2021,11:25:00,7192351,,,6:30:00,,LUG Mech,High,1,Install liners 11B digester vessel,Yes,Yes,Yes,No,3
+12/07/2021,11:25:00,7192350,,,6:30:00,,LUG Mech,High,1,Install liners 11a digester vessel,Yes,Yes,Yes,No,3
+12/07/2021,13:30:00,7192350,,,6:30:00,,LUG Mech,High,1,Install liners 11A Digester vessel ,Yes,Yes,Yes,No,3
+12/07/2021,13:30:00,7192351,,,6:30:00,,LUG Mech,High,1,Install liners in 11B Digester vessel,Yes,Yes,Yes,No,3
+12/07/2021,13:50:00,7181625,87318,,11:00:00,14:00:00,LUG Ropes,High,1,Modify scaffold #51 B.O.T.,Yes,Yes,Yes,No,1
+12/07/2021,13:35:00,7188448,91701,,10:30:00,,Ailoev,High,1,Drill holes #34 S/Trap tank stiffener,Yes,Yes,Yes,No,3
+12/07/2021,14:35:00,7188448,91071,,10:30:00,?,Ailoev,High,1,Drill holes #34 S/Trap tank stiffener,Yes,Yes,Yes,No,3
+12/07/2021,7:30:00,7185365,,,8:00:00,,SLA,Medium,1,Test cone #31 sand trap,no,Yes,Yes,No,2
+12/07/2021,10:00:00,7185365,,,8:00:00,11:15:00,SLA,Medium,1,Test cone #31 sand trap,No,Yes,Yes,No,2
+12/07/2021,13:30:00,7182641,82775,,8:00:00,,SLA,Medium,1,Routine thickness testing Bld 30,No,Yes,Yes,No,1
+12/07/2021,9:48:00,not provided,,,7:30:00,,Roht,Medium,1,Rewire S.A.S  in Sub station #14,No,No,Yes,No,2
+12/07/2021,13:25:00 PM,7162002,,,6:30:00,13:30:00,Roht,Medium,1,Rewire S.A.S  in Sub station #14,No,No,Yes,No,1
+12/07/2021,7:50:00,715693805,84670,,8:00:00,,SLA,Medium,1,Inspect cone liners #21 GCH 25C,Yes,Yes,Yes,No,2
+12/07/2021,9:15:00,7189798,,,9:20:00,,Tacpim,Medium,1,Repair #55 Heater,Yes,Yes,Yes,Yes,3
+12/07/2021,11:30:00,7189798,,,9:20:00,,Tacpim,Medium,1,Repair #55 Heater,Yes,Yes,Yes,Yes,3
+12/07/2021,14:00:00,7189798,,,9:00:00,,Tacpim,Medium,1,Repair #55 Heater,Yes,Yes,Yes,Yes,3
+13/07/2021,8:43:00,7170506,,,8:00:00,,Awayclean,High,1,HPW clean #51B.O.T. vapour line,Yes,Yes,Yes,No,3
+13/07/2021,11:05:00,7170506,,,8:00:00,,Awayclean,High,1,HPW clean #51B.O.T. vapour line,yes,Yes,Yes,No,0
+13/07/2021,11:59:00,7170506,,,8:00:00,,Awayclean,High,1,HPW clean #51B.O.T. vapour line,yes,Yes,Yes,No,3
+13/07/2021,13:55:00,7170506,,,8:00:00,14:00:00,Awayclean,High,1,HPW clean #51B.O.T. vapour line,yes,Yes,Yes,No,3
+13/07/2021,8:50:00,7175923,,,8:30:00,,Refeak,High,1,Install bypass Bld. 30,Yes,Yes,Yes,No,2
+13/07/2021,11:05:00,7175923,,,8:30:00,,Refeak,High,1,Install bypass Bld. 30,yes,Yes,Yes,No,2
+13/07/2021,14:17:00,7175923,,,8:30:00,,Refeak,High,1,Install bypass Bld. 30,yes,Yes,Yes,No,0
+13/07/2021,14:50:00,71759,,,8:30:00,,Refeak,High,1,Install bypass Bld. 30,yes,Yes,Yes,No,2
+13/07/2021,12:14:00,7185111,,,12:15:00,12:30:00,E.R.S.,High,1,Check cable tray lanyards,Yes,Yes,Yes,Yes,2
+13/07/2021,8:20:00,7192351,,,8:00:00,,LUG Mech,High,1,Install liners 11B digester vessel,Yes,Yes,Yes,No,5
+13/07/2021,7:45:00,7192350,,,8:00:00,,LUG Mech,High,1,Install liners 11A digester vessel,Yes,Yes,Yes,Yes,4
+13/07/2021,11:00:00,7192350,,,8:00:00,,LUG Mech,High,1,Install liners 11A digester vessel,yes,Yes,Yes,Yes,4
+13/07/2021,11:00:00,7192351,,,8:00:00,,LUG Mech,High,1,Install liners 11B digester vessel,yes,yes,Yes,Yes,5
+13/07/2021,14:10:00,7192350,,,8:00:00,,LUG Mech,High,1,Install liners 11A digester vessel,yes,Yes,Yes,Yes,4
+13/07/2021,14:10:00,7192351,,,8:00:00,,LUG Mech,High,1,1nstall liners 11B digester vessel,yes,Yes,Yes,Yes,4
+13/07/2021,11:48:00,7180427,,,7:30:00,,LUG Ropes,High,1,Patch #6 mill feed bin wall,yes,Yes,Yes,No,3
+13/07/2021,13:15:00 PM,7180427,,,7:30:00,,LUG Ropes,High,1,Patch #6 mill feed bin wall,yes,Yes,Yes,No,3
+13/07/2021,8:29:00,not provided,82775,4302013,8:30:00,,SLA,Medium,1,Routine thickness testing Bld 30,No,Yes,Yes,No,1
+13/07/2021,8:15:00,713559,,,8:20:00,,SLA,Medium,1,Routine  Vibration testing 25A/25C,No,Yes,Yes,No,1
+13/07/2021,10:30:00,713559,,,8:20:00,,SLA,Medium,1,Routine vibration monitoring,No,Yes,Yes,No,1
+13/07/2021,10:45:00,not provided,82775,,8:29:00,,SLA,Medium,1,Routine thickness testing Bld 30,No,Yes,Yes,No,1
+13/07/2021,14:12:00,713559,,,8:20:00,,SLA,Medium,1,Routine vibration monitoring,No,Yes,Yes,No,1
+13/07/2021,14:15:00,not provided,82775,4302013,8:30:00,,SLA,Medium,1,Routine thickness testing Bld 30,No,yes,Yes,No,1
+13/07/2021,8:07:00,7189798,,,8:00:00,,Tacpim,Medium,1,#55 heater repairs,No,Yes,Yes,Yes,3
+13/07/2021,9:18:00,7174721,88130,,8:55:00,,Tacpim,Medium,1,#6 mill girth gear inspection,No,Yes,Yes,Yes,2
+13/07/2021,10:05:00,7189798,,,8:00:00,,Tacpim,Medium,1,#55 heater repairs,No,Yes,Yes,No,2
+13/07/2021,11:41:00,7174271,88130,,8:55:00,,Tacpim,Medium,1,#6 mill girth gear inspection,No,Yes,Yes,Yes,2
+13/07/2021,10:56:00,7189798,,,8:00:00,,Tacpim,Medium,1,#55 heater repairs,No,Yes,Yes,Yes,4
+13/07/2021,14:00:00,719331,,,14:15:00,,Tacpim,Medium,1,11/1 Bld. 42 heater repairs,no,Yes,Yes,Yes,4
+13/07/2021,13:20:00,7174271,88130,,8:55:00,,Tacpim,Medium,1,#6 mill girth gear inspection,No,Yes,Yes,Yes,2
+13/07/2021,10:00:00,7191412,,,10:00:00,,Tacpim,Medium,1,#22 heater repairs,Yes,Yes,Yes,Yes,2
+14/07/2021,11:00:00,7183397,,,10:30:00,,LUG Mech,High,1,#34 digester bank service,No,Yes,Yes,No,3
+14/07/2021,12:05:00,7186385,90684,,7:30:00,,LUG Ropes,High,1,C/out elbow 30 unit #3,No,Yes,Yes,No,3
+14/07/2021,6:46:00,not provided,,,6:30:00,,LUG Ropes,High,1,Erect scaffold #5 mill,No,Yes,Yes,No,3
+14/07/2021,7:00:00,7177384,,,6:30:00,,LUG Ropes,High,1,Dismantle scaffolds #34 Digester bank,No,Yes,Yes,Yes,3
+14/07/2021,11:25:00,7192851,92386,,6:30:00,,LUG Ropes,High,1,Erect scaffold #5 mill,No,Yes,Yes,No,3
+14/07/2021,13:18:00,7192851,92386,,6:30:00,13:18:00,LUG Ropes,High,1,Erect scaff #5 mill,No,Yes,Yes,No,3
+14/07/2021,14:15:00,7186959,,,7:30:00,,Delfwestern,High,1,D1/D2 tripper floor repairs,No,No,Yes,Yes,4
+14/07/2021,14:30:00,90142,7183397,,7:00:00,15:00:00,Dartla,High,1,Remove asbestos gaskets if required,Yes,Yes,Yes,No,1
+14/07/2021,7:43:00,7175923,,,7:30:00,8:30:00,Refeak,High,1,Install bypass Bld. 30,yes,Yes,Yes,No,3
+14/07/2021,8:02:00,7192351,,,7:30:00,,LUG Mech,High,1,Install liners 11B digester vessel,yes,Yes,Yes,Yes,4
+14/07/2021,7:59:00,7192350,,,7:30:00,,LUG Mech,High,1,Install liners 11A digester vessel,yes,Yes,Yes,Yes,4
+14/07/2021,13:42:00,7192351,,,7:30:00,,LUG Mech,High,1,Install liners 11B digester vessel,Yes,Yes,Yes,Yes,4
+14/07/2021,13:42:00,7192350,,,7:30:00,,LUG Mech,High,1,Install liners 11A digester vessel,Yes,Yes,Yes,Yes,4
+14/07/2021,8:00:00,7186385,90684,,7:35:00,,LUG Ropes,High,1,C/out  elbow  30 unit #3,Yes,Yes,Yes,No,3
+14/07/2021,14:00:00,7186385,90684,,7:35:00,15:00:00,LUG Ropes,High,1,C/ out elbow 30 unit #3,Yes,Yes,Yes,No,3
+14/07/2021,10:08:00,7186959,,,7:30:00,,Delfwestern,High,1,D1/D2 tripper floor repairs,Yes,Yes,Yes,Yes,4
+14/07/2021,7:19:00,not provided,82775,430213,7:30:00,,SLA,Medium,1,Routine NDT Bld. 30,No,Yes,Yes,No,2
+14/07/2021,9:15:00,not provided,82775,430213,7:30:00,,SLA,Medium,1,Routine NDT Bld. 30,No,Yes,Yes,No,2
+14/07/2021,8:00:00,719331,,,7:30:00,,Tacpim,Medium,1,Repair Bld. 42 11/1 heater,No,Yes,Yes,Yes,3
+14/07/2021,9:20:00,71933,,,7:30:00,,Tacpim,Medium,1,Repair Bld. 42 11/1 heater,No,Yes,Yes,Yes,3
+14/07/2021,14:10:00,71933,,,7:30:00,,Tacpim,Medium,1,Repair BLD. 42 11/1 heater,No,Yes,Yes,No,4
+14/07/2021,10:17:00,not provided,,,10:00:00,10:30:00,Washrobo,Medium,1,Remove waste liquid  Mills lube shed,No,Yes,Yes,No,1
+14/07/2021,10:00:00,7177384,,,7:00:00,,LUG Ropes,Medium,1,Strip scaffolds  #34 Digester bank,No,Yes,Yes,Yes,3
+14/07/2021,13:25:00,7007080,,,10:00:00,,Norled,Medium,1,108W office cleaning,Yes,Yes,Yes,No,1
+14/07/2021,6:34:00,7174721,,,18:00,7:37:00,Tacpim,Medium,1,#6 mill girth gear inspection,yes,Yes,Yes,Yes,3
+15/07/2021,6:58:00,7192351,,,7:00:00,,LUG Mech,High,1,Install liners 11B digester vessel,Yes,Yes,Yes,Yes,2
+15/07/2021,6:58:00,7192350,,,7:00:00,,LUG Mech,High,1,Install liners 11A digester vessel,Yes,Yes,Yes,Yes,4
+15/07/2021,10:40:00,7192351,,,7:00:00,,LUG Mech,High,1,Install liners 11B digester vessel,Yes,Yes,Yes,Yes,2
+15/07/2021,10:40:00,7192350,,,7:00:00,,LUG Mech,High,1,Install liners 11A  digster vessel,Yes,Yes,Yes,Yes,4
+15/07/2021,10:37:00,7171533,,,7:30:00,,LUG Mech,High,1,Drill holes for valve safety pins,Yes,Yes,Yes,No,2
+15/07/2021,14:20:00,7192351,,,7:00:00,,LUG Mech,High,1,Install liners 11B digester vessel,Yes,Yes,Yes,Yes,2
+15/07/2021,14:20:00,7192350,,,7:00:00,,LUG Mech,High,1,Install liners 11A digester vessel,Yes,Yes,Yes,Yes,4
+15/07/2021,7:36:00,7192452,82775,,7:30:00,,SLA,Medium,1,NDT on live steam heater heads Bld. 30,No,Yes,Yes,No,1
+15/07/2021,10:35:00,7192452,82775,,7:36:00,,SLA,Medium,1,NDT on live steam heater heads Bld. 30,No,Yes,Yes,No,1
+15/07/2021,13:50:00,7192452,82775,,7:36:00,,SLA,Medium,1,NDT on live steam heater heads Bld. 30,No,Yes,Yes,No,1
+15/07/2021,7:49:00,7193821,,,7:30:00,,Awayclean,Medium,1,Clean slurry from Lake Duck 25A ,No,Yes,Yes,No,2
+15/07/2021,11:00:00,7193821,,,7:50:00,,Awayclean,Medium,1,Clean slurry from Lake Duck 25A ,No,Yes,Yes,No,2
+15/07/2021,13:10:00,7193821,,,7:50:00,,Awayclean,Medium,1,Clean slurry from Lake Duck 25A ,No,Yes,Yes,No,2
+15/07/2021,8:25:00,7171053,85959,10:00,8:00:00,,SLA,Medium,1,Check cone repairs #11 digester bank. NDT,Yes,Yes,Yes,No,1
+15/07/2021,10:35:00,7183396,90135,,10:30:00,,SLA,Medium,1,NDT on #34 Digester bank cones,Yes,Yes,Yes,No,1
+15/07/2021,12:34:00,7189811,82356-7,,12:30:00,13:50:00,MCE,Medium,1,Airconditioner Maintenance,Yes,Yes,Yes,Yes,1
+15/07/2021,12:34:00,7189819,82408-7,,12:30:00,13:50:00,MCE,Medium,1,Airconditioner Breakdowns ,Yes,Yes,Yes,Yes,1
+15/07/2021,8:50:00,719331,,,8:50:00,,Tacpim,Medium,1,Repair 11/1 heater Bld. 42,Yes,Yes,Yes,Yes,2
+15/07/2021,11:20:00,719331,,,8:50:00,,Tacpim,Medium,1,Repair 11/1 heater Bld. 42,Yes,Yes,Yes,Yes,2
+15/07/2021,13:30:00,719331,,,8:50:00,,Tacpim,Medium,1,Repair 11/1 heater Bld. 42,Yes,Yes,Yes,Yes,2
+15/07/2021,10:30:00,7191421,91925,,7:20:00,,Roht,Medium,1,Paint walls 30X,Yes,Yes,Yes,No,2
+15/07/2021,13:40:00,7191421,91925,,7:20:00,,Roht,Medium,1,Paint walls 30X,Yes,Yes,Yes,No,2
+16/07/2021,12:13:00,718707465,,,12:15:00,,Allbelts,High,1,Splice Mill #4 feed conveyor,No,Yes,Yes,Yes,3
+16/07/2021,13:55:00,718707465,,,12:14:00,,Allbelts,High,1,Splice Mill #4 feed conveyor,No,Yes,Yes,Yes,3
+16/07/2021,12:10:00,7188546,,,10:25:00,,SLA Ropes,High,1,Routine testing 25A,No,Yes,Yes,Yes,2
+16/07/2021,11:25:00,7191411,91815,,8:45:00,,LUG Ropes,High,1,Replace DSM segment #5 mill,No,Yes,Yes,Yes,3
+16/07/2021,13:43:00,7191411,91815,,8:45:00,,LUG Ropes,High,1,Replace DSM segment #5 mill,No,Yes,Yes,Yes,3
+16/07/2021,8:28:00,7183397,,,7:00:00,,LUG Ropes,High,1,Internal scaffolds #34 Digesters,No,Yes,Yes,No,5
+16/07/2021,8:15:00,7192851,92386,,7:40:00,,LUG Ropes,High,1,C/out #5 mill boxed bend,No,Yes,No,No,3
+16/07/2021,7:00:00,7181625,87318,,7:00:00,,LUG Ropes,High,1,Strip scaffold #51 B.O.T.,No,Yes,Yes,Yes,4
+16/07/2021,11:21:00,7188644,92026,,6:30:00,,LUG Ropes,High,1,#6 Mill c/out K.G.A. valve,No,No,No,Yes,2
+16/07/2021,11:43:00,7181625,87318,,7:00:00,,LUG Ropes,High,1,Strip scaffold #51 B.O.T.,No,No,No,Yes,4
+16/07/2021,11:10:00,7192851,92386,,7:40:00,,LUG Ropes,High,1,C/out #5 mill boxed bend,No,Yes,No,No,3
+16/07/2021,7:44:00,7171533,,,7:30:00,,LUG Mech,High,1,Drill holes for valve safety pins,Yes,Yes,Yes,No,2
+16/07/2021,7:13:00,7192351,,,7:00:00,,LUG Mech,High,1,Install liners 11B digester vessel,Yes,Yes,Yes,Yes,3
+16/07/2021,7:00:00,7192350,,,7:00:00,,LUG Mech,High,1,Install liners 11A digester vessel,Yes,Yes,Yes,Yes,3
+16/07/2021,11:54:00,7192351,,,7:00:00,,LUG Mech,High,1,Install liners 11B digester vessel,Yes,Yes,Yes,Yes,3
+16/07/2021,11:54:00,7192350,,,7:00:00,,LUG Mech,High,1,Install liners 11A digester vessel,Yes,Yes,Yes,Yes,3
+16/07/2021,12:01:00,7171533,,,6:30:00,,LUG Mech,High,1,Drill holes for valve safety pins,Yes,Yes,Yes,No,2
+16/07/2021,14:19:00,717153,,,6:30:00,14:20:00,LUG Mech,High,1,Drill holes for locking pins,Yes,Yes,Yes,Yes,2
+16/07/2021,8:08:00,7188644,92026,,7:00:00,,LUG Ropes,High,1,#6 Mill c/out K.G.A. valve,Yes,Yes,Yes,Yes,2
+16/07/2021,7:19:00,7192452,82775,,7:00:00,,SLA,Medium,1,Routine NDT Bld. 30,No,Yes,Yes,No,2
+16/07/2021,9:00:00,7192452,82775,,7:00:00,,SLA,Medium,1,Routine NDT Bld. 30,No,Yes,Yes,No,2
+16/07/2021,13:30:00,7192452,82775,,7:00:00,,SLA,Medium,1,Routine NDT Bld. 30,No,Yes,Yes,No,2
+16/07/2021,7:45:00,719331,,,7:30:00,,Tacpim,Medium,1,Repair 11/1 heater Bld. 42,No,Yes,Yes,Yes,2
+16/07/2021,11:00:00,719331,,,7:30:00,,Tacpim,Medium,1,Repair 11/1 heater Bld. 42,No,Yes,Yes,Yes,2
+16/07/2021,7:32:00,7191421,91925,,7:00:00,,Roht,Medium,1,Install LCD screens 108W/30X,Yes,Yes,Yes,Yes,2
+16/07/2021,10:45:00,7191421,91925,,7:00:00,,Roht,Medium,1,Install LCD screens 108W/30X,Yes,Yes,Yes,Yes,2
+16/07/2021,13:05:00,7191421,91925,,7:00:00,,Roht,Medium,1,Install LCD screens 108W/30X,Yes,Yes,Yes,Yes,2
+19/07/2021,8:21:00,7143978,92178,,7:15:00,,Dartla,High,2,Erect scaffold 35R tank for cladding repair ,No,Yes,Yes,Yes,3
+19/07/2021,13:25:00,7143978,92178,,7:15:00,13:30:00,Dartla,High,2,Erect scaffold 35R tank for cladding repair ,No,No,No,Yes,3
+19/07/2021,9:11:00,7194254,,,7:00:00,,Awayclean,High,2,HPW clean  #13 Mud thickener tank,No,Yes,Yes,No,3
+19/07/2021,10:21:00,7194254,,,7:00:00,,Awayclean,High,2,HPW clean  #13 Mud thickener tank,No,Yes,Yes,Yes,3
+19/07/2021,14:20:00,7194254,,,7:00:00,,Awayclean,High,2,HPW clean  #13 Mud thickener tank,No,No,Yes,No,3
+19/07/2021,8:34:00,7191128,,,7:00:00,,Awayclean,High,2,HPW clean BLD. 35 mud troughs,Yes,Yes,Yes,No,4
+19/07/2021,8:55:00,7169199,,,7:30:00,,LUG Mech,High,2,Replace Biox supply line bld. 35,Yes,Yes,Yes,No,2
+19/07/2021,10:30:00,7169199,,,7:30:00,,LUG Mech,High,2,Replace Biox supply line bld. 35,Yes,Yes,Yes,No,2
+19/07/2021,22:04:00,7169199,,,7:30:00,16:00:00,LUG Mech,High,2,Replace Biox supply line bld. 35,Yes,Yes,Yes,No,2
+19/07/2021,7:50:00,7188448,91701,,7:55:00,14:13:00,LUG Ropes,High,1,#34 s/trap. Burn holes in stiffener,Yes,Yes,Yes,Yes,3
+19/07/2021,10:00:00,7185218,,,7:00:00,13:17:00,Ailoev,Medium,2,Replace Potable water line at VTAT offices,yes,Yes,Yes,No,3
+20/07/2021,11:19:00,7191128,,,7:00:00,,Awayclean,High,2,HPW clean Bld #35 Mud troughs,No,Yes,Yes,Yes,6
+20/07/2021,14:03:00,7191128,,,7:00:00,,Awayclean,High,2,HPW clean Bld. #35 Mud troughs,NO,Yes,Yes,Yes,6
+20/07/2021,8:15:00,7176446,,,7:30:00,,Awayclean,High,2,HPW clean #13 Mud thickener tank,Yes,No,Yes,No,5
+20/07/2021,7:35:00,7191128,,,7:00:00,,Awayclean,High,2,HPW . Clean Bld. 35 Mud troughs,Yes,Yes,Yes,No,6
+20/07/2021,11:25:00,7176446,,,7:00:00,,Awayclean,High,2,HPW clean #13 mud thickener tank,Yes,Yes,Yes,No,5
+20/07/2021,14:19:00,7176446,,,7:00:00,,Awayclean,High,2,Descale #13 Thickener,Yes,Yes,Yes,No,5
+20/07/2021,9:00:00,7185218,,,7:00:00,13:15:00,Roht,High,2,Replace potable water line at VTAT offices,Yes,Yes,Yes,No,2
+20/07/2021,8:18:00,7166004,,,7:00:00,13:10:00,Roht,High,2,Install electrical cable,Yes,Yes,Yes,No,3
+20/07/2021,7:45:00,7169199,,,7:30:00,11:00:00,LUG Mech,High,2,Replace Biox line,Yes,Yes,Yes,Yes,3
+20/07/2021,7:30:00,7185218,,,7:00:00,,Roht,Medium,2,Replace Potable water line at VTAT offices,Yes,Yes,Yes,No,2
+21/07/2021,11:05:00,7191185,,,7:30:00,,Awayclean,High,2,Clean Bld 35 Mud troughs and floor,No,No,No,No,6
+21/07/2021,8:11:00,7176446,,,7:00:00,,Awayclean,High,2,Descale #13 Thickener,Yes,Yes,Yes,No,5
+21/07/2021,8:28:00,71911,,,7:30:00,,Awayclean,High,2,Clean Bld 35 mud troughs and floor,Yes,Yes,Yes,No,6
+21/07/2021,11:25:00,7176446,,,7:00:00,,Awayclean,High,2,Descale #13 Thickener,Yes,Yes,Yes,No,0
+21/07/2021,13:50:00,7176446,,,7:00:00,,Awayclean,High,2,Descale #13 Thickener,Yes,Yes,Yes,No,0
+21/07/2021,7:56:00,7163168,,,6:30:00,,LUG Mech,High,2,Install new lime line,Yes,Yes,Yes,Yes,5
+21/07/2021,7:43:00,7166004,,,6:30:00,12:30:00,Roht,High,2,Run cable to precoat pumps,Yes,Yes,Yes,No,3
+21/07/2021,8:23:00,7169199,,,7:30:00,,LUG Mech,High,2,Replace Biox line,Yes,Yes,Yes,No,3
+21/07/2021,11:01:00,7169199,,,7:30:00,,LUG Mech,High,2,Replace Biox line,Yes,Yes,Yes,No,4
+21/07/2021,13:40:00,7169199,,,7:30:00,16:00:00,LUG Mech,High,2,Replace Biox line,Yes,Yes,Yes,No,4
+21/07/2021,11:20:00,7163168,,,6:30:00,,LUG Mech,High,2,Install new lime line,Yes,Yes,Yes,No,5
+21/07/2021,13:56:00,7163168,,,6:30:00,15:51:00,LUG Mech,High,2,Install new lime line,Yes,Yes,Yes,No,5
+21/07/2021,7:00:00,7185218,,,6:30:00,,Roht,Medium,2,"Replace potable water line, earthworks",No,No,No,No,3
+21/07/2021,9:28:00,7185218,,,6:30:00,,Roht,Medium,2,"Replace potable water line, earthworks",No,No,No,No,3
+21/07/2021,11:50:00,7185218,,,6:30:00,14:00:00,Roht,Medium,2,Replace potable water line. Earthworks,No,No,No,No,3
+21/07/2021,12:14:00,7188768,90223,,6:30:00,14:30:00,Roht,Medium,2,Refurbish VTAT transportable,Yes,Yes,Yes,No,2
+21/07/2021,14:14:00 PM,7188768,90223,,6:30:00,14:30:00,Roht,Medium,2,Refurbish VTAT Transportable,Yes,Yes,Yes,No,2
+22/07/2021,11:49:00,7191185,,,7:00:00,,Awayclean,High,2,Clean Mud troughs,No,Yes,Yes,No,4
+22/07/2021,14:26:00,7179410,,,7:00:00,,Awayclean,High,2,HPW clean mud troughs,NO,No,No,No,3
+22/07/2021,14:29:00,7179410,,,7:00:00,,Awayclean,High,2,Clean #46 press,NO,No,Yes,No,3
+22/07/2021,8:33:00,7191185,,,7:00:00,,Awayclean,High,2,Clean Bld. 35 mud troughs,Yes,Yes,Yes,No,4
+22/07/2021,8:59:00,7179410,,,6:30:00,,Awayclean,High,2,Clean #46 KFP,Yes,Yes,Yes,No,3
+22/07/2021,8:04:00,7176446,,,7:00:00,,Awayclean,High,2,Descale #13 Thickener,Yes,Yes,Yes,No,6
+22/07/2021,11:21:00,7176446,,,7:00:00,,Awayclean,High,2,Descale #13 Thickener,Yes,Yes,Yes,No,6
+22/07/2021,11:39:00,7179410,,,7:00:00,,Awayclean,High,2,HPW clean #46 Press,Yes,Yes,Yes,No,3
+22/07/2021,14:20:00,7176446,,,7:00:00,,Awayclean,High,2,Descale #13 Thickener,Yes,Yes,Yes,No,5
+22/07/2021,8:19:00,7166002,,,6:30:00,14:00:00,Roht,High,2,Run new cables to precoat pumps,Yes,Yes,Yes,No,3
+22/07/2021,12:00:00,7166002,,,6:30:00,,Roht,High,2,C/Out water heater,Yes,Yes,Yes,No,2
+22/07/2021,8:49:00,7184806,90350,,6:30:00,,LUG Mech,High,2,Install spool 37A #2 OFT,Yes,Yes,Yes,No,3
+22/07/2021,7:55:00,7163168,,,6:30:00,,LUG Mech,High,2,Replace lime line,Yes,Yes,Yes,Yes,2
+22/07/2021,7:30:00,7169199,,,6:30:00,,LUG Mech,High,2,Replace Biox line,Yes,Yes,Yes,No,2
+22/07/2021,11:18:00,7163168,,,6:30:00,,LUG Mech,High,2,Replace lime line,Yes,Yes,Yes,Yes,2
+22/07/2021,11:35:00,7184806,90350,,6:30:00,,LUG Mech,High,2,Install spool 37A #2 OFT,Yes,Yes,Yes,No,3
+22/07/2021,11:00:00,7169199,,,6:30:00,,LUG Mech,High,2,Replace Biox line,Yes,Yes,Yes,No,2
+22/07/2021,14:30:00,7184806,,,6:30:00,14:30:00,LUG Mech,High,2,Install spool 37A #2 OFT,Yes,Yes,Yes,No,3
+22/07/2021,14:15:00,7163168,,,6:30:00,16:00:00,LUG Mech,High,2,Replace lime line,Yes,Yes,Yes,Yes,2
+22/07/2021,14:30:00,7169199,,,6:30:00,15:00:00,LUG Mech,High,2,Replace Biox Line,Yes,Yes,Yes,Yes,2
+22/07/2021,7:08:00,7185218,,,7:00:00,,Roht,Medium,2,Earthworks for poatable water line,Yes,Yes,Yes,Yes,3
+22/07/2021,7:08:00,7188768,,,6:30:00,,Roht,Medium,2,Refurbish transportable at VTAT,Yes,Yes,Yes,No,2
+22/07/2021,10:30:00,7185218,,,7:00:00,,Roht,Medium,2,Earthworks and Potable water line repair,Yes,Yes,Yes,No,5
+22/07/2021,10:28:00,7188768,,,6:30:00,,Roht,Medium,2,Refurbish transportable hut,Yes,Yes,Yes,No,2
+22/07/2021,10:28:00,7188768,,,6:30:00,,Roht,Medium,2,Refurbish transportable hut,yes,yes,Yes,No,2
+22/07/2021,13:54:00,7188768,,,6:30:00,14:20:00,Roht,Medium,2,Refurbish transportable,Yes,Yes,Yes,Yes,1
+22/07/2021,13:50:00,7185218,,,7:00:00,14:20:00,Roht,Medium,2,Repair potable water line,Yes,Yes,Yes,Yes,2
+23/07/2021,8:02:00,7191185,,,8:00:00,,Awayclean,High,2,Clean mud troughs,No,Yes,Yes,No,3
+23/07/2021,8:51:00,7176496,,,7:30:00,,Awayclean,High,2,Descale F13 Thickener,No,Yes,Yes,No,4
+23/07/2021,13:45:00,7191185,,,8:00:00,,Awayclean,High,2,Clean mud troughs,No,No,Yes,No,6
+23/07/2021,7:50:00,7166002,,,7:00:00,11:45:00,Roht,High,2,Rewire precoat pumps,No,Yes,Yes,No,2
+23/07/2021,8:31:00,7169199,,,6:30:00,,LUG Mech,High,2,Replace Biox line,No,Yes,Yes,No,3
+23/07/2021,8:20:00,7184806,90350,,7:20:00,,LUG Mech,High,2,Install spool 37A #2 OFT.,No,Yes,Yes,No,2
+23/07/2021,11:54:00,7191185,,,8:00:00,,Awayclean,High,2,Clean mud troughs,Yes,Yes,Yes,No,6
+23/07/2021,11:41:00,7176446,,,7:30:00,,Awayclean,High,2,Descale #13 Thickener,Yes,Yes,Yes,No,5
+23/07/2021,14:00:00,7176446,,,7:30:00,,Awayclean,High,2,Descale #13 Thickener,Yes,Yes,Yes,No,5
+23/07/2021,11:25:00,7169199,,,6:30:00,,LUG Mech,High,2,Replace Biox line,Yes,Yes,Yes,No,3
+23/07/2021,12:01:00,7184806,90350,,7:20:00,,LUG Mech,High,2,Install spool 37A2 OFT,Yes,Yes,Yes,No,2
+23/07/2021,13:50:00,7184806,90350,,7:20:00,14:00:00,LUG Mech,High,2,Install spool 37A2 OFT,Yes,Yes,Yes,No,2
+23/07/2021,11:20:00,7169199,,,6:30:00,,LUG Mech,High,2,Replace Biox line,Yes,Yes,Yes,No,3
+23/07/2021,18:50:00,7169199,,,6:30:00,15:00:00,LUG Mech,High,2,Replace Biox line,Yes,Yes,Yes,No,3
+23/07/2021,9:30:00,not provided,90234,,7:50:00,,Roht,Low,2,Rewire VTAT transportable,No,No,Yes,No,1
+23/07/2021,11:03:00,not provided,90234,,7:50:00,,Roht,Low,2,Rewire VTAT transportable,Yes,Yes,Yes,No,1
+23/07/2021,13:05:00,not provided,90234,,7:50:00,14:00:00,Roht,Low,2,Rewire VTAT transportable,Yes,Yes,Yes,No,3
+23/07/2021,11:25:00,7198275,,,10:00:00,,Roht,Medium,2,Earth works on potable water line,No,No,No,Yes,2
+23/07/2021,13:20:00,7185218,,,10:00:00,14:00:00,Roht,Medium,2,Earthworks  Potable water line,No,No,No,Yes,4
+23/07/2021,7:30:00,7185218,,,7:15:00,,Ailoev,Medium,2,Repair potable water line,No,Yes,Yes,No,2
+23/07/2021,9:00:00,7165866,,,7:40:00,11:00:00,Awayclean,Medium,2,Build sand bund,Yes,Yes,Yes,Yes,2

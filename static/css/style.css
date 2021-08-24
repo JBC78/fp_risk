@@ -1,0 +1,28 @@
+nav {
+    background-color: rgb(226, 238, 238);
+}
+
+#navbar {
+    float: left;
+    background: rgb(240, 255, 246)
+
+}
+#summary {
+    width: 80%;
+    font-size: 16px;
+}
+
+#image {
+    float: left;
+}
+
+.container {
+    background-color: rgb(243, 243, 236);
+    max-width: 100%
+}
+body {
+    background-color:cornflowerblue
+}
+.nav-link:hover {
+    background-color: thistle;
+}
