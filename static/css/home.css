@@ -1,17 +1,17 @@
 body {
     background-color: #e7f1f1;
  }
+
 h1 {
     font-size: 50px;
     text-align: center;
 }
+
 nav {
     background-color: rgba(124, 128, 127, 0.521);
 }
+
 #navbar {
     float: left;
     background: rgb(228, 19, 193)
-}
-.nav-link:hover {
-    background-color: rgb(235, 18, 199);
 }

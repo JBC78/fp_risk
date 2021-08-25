@@ -1,22 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        </style>
-        <title>Risk Classifier Predictor</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
-            crossorigin="anonymous">
-        <!--CSS Link-->
-        <link rel="stylesheet" type="text/css" href="static\css\style.css">
-    </head>
-    <body>
-            <!-- Navigation -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Risk Classifier</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+    <!--CSS Link-->
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+</head>
+<body>
+    <header class="header">
+        <h1> Risk Classifier Predictor</h1>
+      </header>
+      <main>
+        <!-- Navigation --> 
         <div class="navigation">
             <nav class="navbar navbar-expand-lg navbar-light"> 
-            <a class="navbar-brand" style="background-color: #1329f1; color: white" href="index.html"> &nbsp; Home &nbsp; </a>
+            <a class="navbar-brand" style="background-color: #1329f1; color: white" href="home.html"> &nbsp; Home &nbsp; </a>
                 <button class="navbar-toggler  border border-white" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
                 aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -35,23 +39,19 @@
                 <li class="nav-item">
                     <a class="nav-link" href="risk_classifier.html">Scope Risk Classifier</a>
                 </li>
-                </ul>
+                </div>
+                </nav>
             </div>
-            </nav>
-        </div>
 
-        <h1>
-            Risk Classifier Predictor
-        </h1>
-        <br><br><br>
-        <p>
-        <input type="text" id="textbox">
-        <button type="button" id="predict_button">predict</button></p>
-        <h3>Prediction</h3>
-        <h3 id="risk_return"></h3>
-        <script src="https://d3js.org/d3.v7.min.js"></script>
-        <script src="../static/js/predict.js"></script>
-    </body>
+    <br>
+    <p>
+    <input type="text" id="textbox" size="50" />
+    <button type="button" id="predict_button">predict</button></p>
+    <h3>Prediction</h3>
+    <h3 id="risk_return"></h3>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="../static/js/predict.js"></script>
+</body>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
     crossorigin="anonymous"></script>
