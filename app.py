@@ -22,7 +22,7 @@ from sklearn.preprocessing import LabelEncoder
 app = Flask(__name__)
 
 # creat routes(end points) for the server
-@app.route("/") # in our app, create a new route, called / 
+@app.route("/home") # in our app, create a new route, called / 
 
 #what will this route do
 def home_page():
@@ -34,6 +34,9 @@ def home_page():
 # def about():
 #     print("Server received request for 'About' page...")
 #     return "Welcome to my 'About' page!"
+@app.route("/findings")
+def findings():
+    return render_template("findings.html")
 
 @app.route("/visuals")
 def visuals():
