@@ -22,7 +22,7 @@ from sklearn.preprocessing import LabelEncoder
 app = Flask(__name__)
 
 # creat routes(end points) for the server
-@app.route("/home") # in our app, create a new route, called / 
+@app.route("/") # in our app, create a new route, called / 
 
 #what will this route do
 def home_page():
