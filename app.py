@@ -102,7 +102,7 @@ def risk_predicter():
     else :
         prediction = "Prediction Unknown"
     print(prediction)
-    return {"This scope of work has predicted Risk Classifiaction of ": prediction}
+    return {"prediction": prediction}
 
 @app.route("/risk_classifier")
 def risk_classifier():
