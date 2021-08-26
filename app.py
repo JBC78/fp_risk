@@ -26,8 +26,8 @@ app = Flask(__name__)
 
 #what will this route do
 def home_page():
-    print("Server received request for 'index page'...")
-    return render_template("index.html")
+    print("Server received request for 'home page'...")
+    return render_template("home.html")
 
 # # about end point
 # @app.route("/about")
@@ -83,6 +83,7 @@ def clean_data(raw_text):
     clean_message = vectorizer.transform([tokenized_message])
     return clean_message
 
+# function to define risk based or classifying the user text and outputing the result
 @app.route("/api/predict", methods =["POST"])
 def risk_predicter():
     user_scope_input = request.get_json()
@@ -101,7 +102,7 @@ def risk_predicter():
     else :
         prediction = "Prediction Unknown"
     print(prediction)
-    return {"prediction": prediction}
+    return {"This scope of work has predicted Risk Classifiaction of ": prediction}
 
 @app.route("/risk_classifier")
 def risk_classifier():
